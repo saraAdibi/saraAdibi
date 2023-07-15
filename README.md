@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-Great! Based on your story, here is a sample README that you can use to showcase your skills and experience:
 I'm a software engineer with experience in Python, HTML, CSS, and Git. I specialize in creating websites using Django and have already developed several websites using this framework. In addition, I have experience creating WordPress websites and have developed several sites using this platform as well.
 
 ## Skills
