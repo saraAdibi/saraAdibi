@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a software engineer with experience in Python, HTML, CSS, and Git. I specialize in creating websites using Django and have already developed several websites using this framework. In addition, I have experience creating WordPress websites and have developed several sites using this platform as well.
+I'm a software engineer with experience in Python. I specialize in creating websites using Django and have already developed websites using this framework. In addition, I have experience creating WordPress websites and have developed several sites using this platform as well.
 
 ## Skills
 
