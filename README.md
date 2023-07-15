@@ -1,4 +1,4 @@
-
+Hi there, I'm Sara Adibi 👋
 <!--
 **saraAdibi/saraAdibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there, I'm Sara Adibi 👋
+
 I'm a software engineer with experience in Python. I specialize in creating websites using Django and have already developed some websites using this framework. In addition, I have experience creating WordPress websites and have developed several sites using this platform as well.
 
 Skills
