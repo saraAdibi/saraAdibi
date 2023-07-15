@@ -27,6 +27,4 @@ I'm a software engineer with experience in Python. I specialize in creating webs
 
 ## Contact
 
-You can reach me via email at [your email address] or connect with me on [LinkedIn](link to LinkedIn profile).
-
-Feel free to use this README as a starting point and customize it to fit your unique skills and experience. Remember to keep your profile README up-to-date and relevant, and showcase your best work to potential employers, collaborators, or contributors. Good luck!
+You can reach me via email at sara.adibi2000@yahoo.com or connect with me on [LinkedIn](link to LinkedIn profile).
