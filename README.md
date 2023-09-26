@@ -26,4 +26,4 @@ I'm a software engineer with experience in Python. I specialize in creating webs
 
 
 ## Contact
-📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saraAdibi/)
+📫 How to reach me:  [![SaraAdibi](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saraAdibi/)
