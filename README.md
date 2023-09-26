@@ -18,13 +18,12 @@ I'm a software engineer with experience in Python. I specialize in creating webs
 ## Skills
 
 - Python
-- Django
+- Django Framework
+- Django Rest Framework
 - HTML
 - CSS
 - Git
-- REST API
 
 
 ## Contact
-
-You can reach me via email at sara.adibi2000@yahoo.com or connect with me on [LinkedIn](link to LinkedIn profile).
+📫 How to reach me:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/saraAdibi/)
