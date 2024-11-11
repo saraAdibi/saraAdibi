@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 -->
 I'm a software engineer with experience in Python. I specialize in creating websites using Django and have already developed websites using this framework. In addition, I have experience creating WordPress websites and have developed several sites using this platform as well.
 
-## Skills
-
-- Python
-- Django Framework
-- Django Rest Framework
-- HTML
-- CSS
-- Git
-
 
 ## Contact
 📫 How to reach me: [![SaraAdibi](https://img.shields.io/badge/-SaraAdibi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&logoWidth=20&logoHeight=20&labelWidth=80&labelHeight=20)](https://www.linkedin.com/in/saraAdibi/)
